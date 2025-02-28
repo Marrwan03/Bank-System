@@ -10,7 +10,7 @@ if you want to transactions and change currency
 you have to use this system it`s easy use and clear
 
 Features are in this system:
- Client:
+Client:
 it has the main operation for client like {Add, delete, find, update} and list all clients
 
 Users:
